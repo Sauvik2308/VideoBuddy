@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "a video tutorial follow along from chai aur javascript",
   "main": "index.js",
+  "type":"module",
   "scripts": {
-    "test": "  "
+    "dev": "nodemon src/index.js"
   },
   "author": "Sauvik Das",
   "license": "ISC",
