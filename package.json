@@ -1,0 +1,11 @@
+{
+  "name": "chai-backend-project",
+  "version": "1.0.0",
+  "description": "a video tutorial follow along from chai aur javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "  "
+  },
+  "author": "Sauvik Das",
+  "license": "ISC"
+}
