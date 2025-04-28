@@ -11,4 +11,5 @@ const connectDB = async () => {
     }
 }
 
+// This line exports the connectDB function as the default export of the module.
 export default connectDB
