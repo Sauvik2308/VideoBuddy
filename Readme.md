@@ -1,1 +1,1 @@
-# A video tutorial follow along from the playlist Chai aur Javascript Backend on Youtube
+# A backend for a Video Streaming Platform, similar to YouTube
