@@ -46,6 +46,9 @@ connectDB()
 
     })
 
+    //export for vercel
+    export default app;
+
 
 
 
