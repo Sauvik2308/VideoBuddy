@@ -1,6 +1,8 @@
 import express from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
+//routes import
+import userRouter from './routes/user.routes.js'
 
 const app = express();
 
@@ -16,12 +18,8 @@ app.use(cookieParser())
 
 // Test route
 app.get("/", (req, res) => {
-    res.send("API Working");
+    res.send("API Working2");
 });
-
-
-//routes import
-import userRouter from './routes/user.routes.js'
 
 
 //routes declaration
